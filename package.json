@@ -1,5 +1,5 @@
 {
-  "name": "edwin-poueriet---edwinpoueriet.dev---2021-12-22-library-api---js",
+  "name": "edwin-poueriet---edwinpoueriet.dev-library-api---js",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,6 @@
     "create:db": "node src/db/setup/init.js",
     "seed": "node src/db/setup/seeds/init.js"
   },
-  "repository": "https://gitlab.com/gbh-candidates/edwin-poueriet---edwinpoueriet.dev---2021-12-22-library-api---js.git",
   "author": "edwin <edwinp@backoffice.co>",
   "license": "MIT",
   "dependencies": {
